@@ -1,0 +1,6 @@
+{
+    "KPlugin": {
+        "MimeTypes": ["model/stl", "model/x.stl-ascii", "model/x.stl-binary", "application/sla"],
+        "Name": "STL 3D models"
+    }
+}
